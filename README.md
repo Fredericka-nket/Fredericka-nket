@@ -41,7 +41,7 @@ A responsive personal portfolio showcasing my academic projects, technical skill
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** linkedin.com/in/fredericka-efua-fynnba-nketsia-5b9212415
+- **LinkedIn:** https://www.linkedin.com/in/fredericka-efua-fynnba-nketsia-5b9212415/
 - **Portfolio:** https://fredericka-nket.github.io
 - **GitHub:** https://github.com/Fredericka-nket
 
